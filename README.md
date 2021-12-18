@@ -1,2 +1,2 @@
-# my-first-project
-My first project on GitHub
+# Приветствую Вас на своей страничке!
+Учусь работать с GitHub
